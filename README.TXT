@@ -1,1 +1,1 @@
-¨Proyecto Programa Git Sena¨
+Proyecto Programa Git Sena
